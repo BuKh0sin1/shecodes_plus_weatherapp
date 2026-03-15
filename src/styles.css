@@ -75,6 +75,23 @@ footer {
   border-top: 1px solid white;
   text-align: center;
   padding-top: 15px;
-
   color: white;
+
+@media (max-width: 480px) {
+  .col-6 {
+    flex-direction: column;
+  }
+
+  .emoji {
+    font-size: 3.5rem;
+  }
+
+  #temperature {
+    font-size: 42px;
+  }
+
+  .units {
+    font-size: 18px;
+    top: 0;
+  }
 }
