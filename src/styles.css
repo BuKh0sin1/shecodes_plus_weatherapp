@@ -37,7 +37,7 @@ strong {
 
 em {
   color: #2213ec;
-  font-size: clamp(4rem, 15vw, 6rem);
+  font-size: clamp(3rem, 15vw, 6rem);
 }
 
 img {
