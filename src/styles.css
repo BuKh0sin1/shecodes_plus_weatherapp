@@ -37,7 +37,7 @@ strong {
 
 em {
   color: #2213ec;
-  font-size: 80px;
+  font-size: clamp(3rem, 15vw, 6rem);
 }
 
 img {
@@ -81,10 +81,4 @@ footer {
   color: #006fff;
 }
 
-@media (max-width: 480px) {
-  em { 
-    font-size: 76px;
-  }
-}  
-  
     
