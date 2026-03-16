@@ -37,8 +37,7 @@ strong {
 
 em {
   color: #2213ec;
-  font-size: clamp(3rem, 15vw, 6rem);
-  line-height: 1;
+  font-size: 80px;
 }
 
 img {
@@ -64,7 +63,7 @@ img {
 
 .units {
   color: #2213ec;
-  font-size: x-large;
+  font-size: clamp(1rem, 5vw, 1.5rem);
   position: relative;
   top: -45px;
 }
