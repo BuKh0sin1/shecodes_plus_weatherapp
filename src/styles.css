@@ -82,9 +82,8 @@ footer {
 }
 
 @media (max-width: 480px) {
-  .units {
-    font-weight: bolder;
-    font-size: large;
+  em { 
+    font-size: 78px;
   }
 }  
   
