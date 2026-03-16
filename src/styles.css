@@ -16,6 +16,7 @@ small {
 a {
   text-decoration: underline;
   color: #006fff;
+   font-weight: bolder;
 }
 
 .first-description {
@@ -76,6 +77,7 @@ footer {
   text-align: center;
   padding-top: 15px;
   color: #006fff;
+  font-weight: bolder;
 }
 
 @media (max-width: 480px) {
