@@ -16,7 +16,7 @@ small {
 a {
   text-decoration: underline;
   color: #006fff;
-   font-weight: bolder;
+  font-weight: bolder;
 }
 
 .first-description {
@@ -28,6 +28,7 @@ a {
   color: white;
   font-size: large;
 }
+
 strong {
   color: #006fff;
   font-weight: bold;
@@ -76,7 +77,6 @@ footer {
   border-top: 1px solid white;
   text-align: center;
   padding-top: 15px;
-  color: #006fff;
   font-weight: bolder;
 }
 
